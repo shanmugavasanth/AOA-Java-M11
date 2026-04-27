@@ -25,8 +25,6 @@ x if x >= 0.
 
 ## Program:
 ```
-
-Program to implement Reverse a String
 Developed by: Shanmuga Vasanth M
 Register Number: 212223040191
 ```
